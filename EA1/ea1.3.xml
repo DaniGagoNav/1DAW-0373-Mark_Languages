@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jugador>
+	<rendiment>
+		<gols>3</gols>
+		<distanciafeta>18</distanciafeta>
+		<infraccions>3</infraccions>
+		<infraccionspenalitzades>
+			<groga>1</groga>
+			<vermella>0</vermella>
+		</infraccionspenalitzades>
+		<jugadesbones>5</jugadesbones>
+	</rendiment>
+	<caracteristiques>
+		<altura>183</altura>
+		<pes>72</pes>
+		<mesurapeu>16.4</mesurapeu>
+		<mitjanappm>172</mitjanappm>
+		<porcentatgegreix>12&#37;</porcentatgegreix>
+	</caracteristiques>
+</jugador>

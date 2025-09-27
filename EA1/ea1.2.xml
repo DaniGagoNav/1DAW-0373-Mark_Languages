@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<habitatges>
+	<habitatge id="1">
+		<codi>1</codi>
+		<adreca>
+			<carrer>Carrer vic</carrer>
+			<codipostal>08500</codipostal>
+			<poblacio>Vic</poblacio>
+		</adreca>
+		<tipushabitatge>Casa aparellada</tipushabitatge>
+		<extras>
+			<parquing>Si</parquing>
+			<piscina>No</piscina>
+			<terrassa>Si</terrassa>
+			<jardi>Si</jardi>
+			<ascensor>No</ascensor>
+		</extras>
+		<compra>
+			<venta>Si</venta>
+			<lloguer>No</lloguer>
+		</compra>
+		<preu>300.000</preu>	
+	</habitatge>
+	<habitatge id="2">
+		<codi>2</codi>
+		<adreca>
+			<carrer>Passatge la Garriga</carrer>
+			<codipostal>08530</codipostal>
+			<poblacio>la Garriga</poblacio>
+		</adreca>
+		<tipushabitatge>Xalet</tipushabitatge>
+		<extras>
+			<parquing>si</parquing>
+			<piscina>si</piscina>
+			<terrassa>si</terrassa>
+			<jardi>si</jardi>
+			<ascensor>si</ascensor>
+		</extras>
+		<compra>
+			<venta>si</venta>
+			<lloguer>no</lloguer>
+		</compra>
+		<preu>1.000.000</preu>
+	</habitatge>
+	<habitatge id="3">
+		<codi>3</codi>
+		<adreca>
+			<carrer>Passatge de Olot</carrer>
+			<codipostal>08510</codipostal>
+			<poblacio>Taradell</poblacio>
+		</adreca>
+		<tipushabitatge>Bloc de pisos</tipushabitatge>
+		<extras>
+			<parquing>no</parquing>
+			<piscina>no</piscina>
+			<terrassa>no</terrassa>
+			<jardi>no</jardi>
+			<ascensor>no</ascensor>
+		</extras>
+		<compra>
+			<venta>no</venta>
+			<lloguer>si</lloguer>
+		</compra>
+		<preu>700mes</preu>
+	</habitatge>
+	<habitatge id="4">
+		<codi>4</codi>
+		<adreca>
+			<carrer>Carrer de Tona</carrer>
+			<codipostal>08551</codipostal>
+			<poblacio>Tona</poblacio>
+		</adreca>
+		<tipushabitatge>Dúplex</tipushabitatge>
+		<extras>
+			<parquing>si</parquing>
+			<piscina>no</piscina>
+			<terrassa>si</terrassa>
+			<jardi>no</jardi>
+			<ascensor>si</ascensor>
+		</extras>
+		<compra>
+			<venta>no</venta>
+			<lloguer>si</lloguer>
+		</compra>
+		<preu>1.000mes</preu>
+	</habitatge>
+	<habitatge id="5">
+		<codi>5</codi>
+		<adreca>
+			<carrer>Carrer del centre</carrer>
+			<codipostal>08540</codipostal>
+			<poblacio>Centelles</poblacio>
+		</adreca>
+		<tipushabitatge>Àtic</tipushabitatge>
+		<extras>
+			<parquing>No</parquing>
+			<piscina>Si</piscina>
+			<terrassa>Si</terrassa>
+			<jardi>No</jardi>
+			<ascensor>Si</ascensor>
+		</extras>
+		<compra>
+			<venta>Si</venta>
+			<lloguer>No</lloguer>
+		</compra>
+		<preu>400.000</preu>
+	</habitatge>
+</habitatges>
