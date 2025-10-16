@@ -1,0 +1,9 @@
+<!ELEMENT albums (album+)>
+<!ELEMENT album (titol, autor, numcancons, durada, genere, any)>
+<!ATTLIST album id CDATA #REQUIRED>
+<!ELEMENT titol (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT numcancons (#PCDATA)>
+<!ELEMENT durada (#PCDATA)>
+<!ELEMENT genere (#PCDATA)>
+<!ELEMENT any (#PCDATA)>

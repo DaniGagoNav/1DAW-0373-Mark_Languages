@@ -1,0 +1,14 @@
+<!ELEMENT biblioteca (llibre+)>
+<!ATTLIST llibre id CDATA #REQUIRED>
+<!ELEMENT llibre (anyEdicio, autor, comentari, dataEntrada, editorial, idLlibre, tema, titol)>
+<!ELEMENT anyEdicio (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT comentari (comentariSMX, comentariBatx, comentariESO)>
+<!ELEMENT comentariSMX (#PCDATA)>
+<!ELEMENT comentariBatx (#PCDATA)>
+<!ELEMENT comentariESO (#PCDATA)>
+<!ELEMENT dataEntrada (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT idLlibre (#PCDATA)>
+<!ELEMENT tema (#PCDATA)>
+<!ELEMENT titol (#PCDATA)>

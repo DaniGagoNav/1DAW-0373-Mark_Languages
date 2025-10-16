@@ -1,0 +1,20 @@
+<!ELEMENT habitatges (habitatge+)>
+<!ELEMENT habitatge (codi, adreca, tipushabitatge, extras, compra, preu)>
+<!ATTLIST habitatge id CDATA #REQUIRED>
+<!ELEMENT titol (#PCDATA)>
+<!ELEMENT codi (#PCDATA)>
+<!ELEMENT adreca (carrer, codipostal, poblacio)>
+<!ELEMENT carrer (#PCDATA)>
+<!ELEMENT codipostal (#PCDATA)>
+<!ELEMENT poblacio (#PCDATA)>
+<!ELEMENT tipushabitatge (#PCDATA)>
+<!ELEMENT extras (parquing, piscina, terrassa, jardi, ascensor)>
+<!ELEMENT parquing (#PCDATA)>
+<!ELEMENT piscina (#PCDATA)>
+<!ELEMENT terrassa (#PCDATA)>
+<!ELEMENT jardi (#PCDATA)>
+<!ELEMENT ascensor (#PCDATA)>
+<!ELEMENT compra (venta, lloguer)>
+<!ELEMENT venta (#PCDATA)>
+<!ELEMENT lloguer (#PCDATA)>
+<!ELEMENT preu (#PCDATA)>

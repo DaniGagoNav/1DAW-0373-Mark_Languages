@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE albums SYSTEM "ex1.1.dtd">
+<albums>
+	<album id="1">
+		<titol>Tribute to George Gershwin - It&apos;s wonderful</titol>
+		<autor>Barbara Hendricks</autor>
+		<numcancons>19</numcancons>
+		<durada>4365</durada>
+		<genere>Jazz</genere>
+		<any>2001</any>
+	</album>
+	<album id="2">
+		<titol>Send away the tiger</titol>
+		<autor>Manic Street Preachers</autor>
+		<numcancons>10</numcancons>
+		<durada>2558</durada>
+		<genere>Pop</genere>
+		<any>2007</any>
+	</album>
+	<album id="3">
+		<titol>Works 2</titol>
+		<autor>Emerson, Lake &amp; Palmer</autor>
+		<numcancons>14</numcancons>
+		<durada>3499</durada>
+		<genere>Rock</genere>
+		<any>1977</any>
+	</album>
+	<album id="4">
+		<titol>PopArt</titol>
+		<autor>Pet Shop boys</autor>
+		<numcancons>17</numcancons>
+		<durada>4420</durada>
+		<genere>Pop</genere>
+		<any>2003</any>
+	</album>
+	<album id="5">
+		<titol>Come away with me</titol>
+		<autor>Norah Jones</autor>
+		<numcancons>13</numcancons>
+		<durada>2711</durada>
+		<genere>Soul</genere>
+		<any>2002</any>
+	</album>
+</albums>

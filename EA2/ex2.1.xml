@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "ex2.1.dtd">
+<biblioteca>
+    <llibre id="1">
+        <anyEdicio>1985</anyEdicio>
+        <autor>Christine Nöstlinger</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>25/04/20</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>1</idLlibre>
+        <tema>Policiaca</tema>
+        <titol>Olfacte de detectiu</titol>
+    </llibre>
+    <llibre id="2">
+        <anyEdicio>2003</anyEdicio>
+        <autor>Elvila Lindo</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>05/05/20</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>2</idLlibre>
+        <tema>Novel·la</tema>
+        <titol>Pobre Manolito</titol>
+    </llibre>
+    <llibre id="3">
+        <anyEdicio>2003</anyEdicio>
+        <autor>E.Mendoza</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>20/04/19</dataEntrada>
+        <editorial>Seix Barral</editorial>
+        <idLlibre>3</idLlibre>
+        <tema>Ciència ficció</tema>
+        <titol>El misteri de la cripta embruixada</titol>
+    </llibre>
+    <llibre id="4">
+        <anyEdicio>2004</anyEdicio>
+        <autor>G. A Bécquer</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>20/04/19</dataEntrada>
+        <editorial>Santillana</editorial>
+        <idLlibre>4</idLlibre>
+        <tema>Poesia</tema>
+        <titol>Rimes i Llegendes</titol>
+    </llibre>
+    <llibre id="5">
+        <anyEdicio>2006</anyEdicio>
+        <autor>J.H. Salinger</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>14/01/00</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>5</idLlibre>
+        <tema>Novel·la</tema>
+        <titol>El guradià entre el centè</titol>
+    </llibre>
+    <llibre id="6">
+        <anyEdicio>1999</anyEdicio>
+        <autor>Roal Dahl</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>08/01/00</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>6</idLlibre>
+        <tema>Novel·la</tema>
+        <titol>Els millors relats de Roal Dahl</titol>
+    </llibre>
+    <llibre id="7">
+        <anyEdicio>2001</anyEdicio>
+        <autor>Susan E.Hilton</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>04/02/98</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>7</idLlibre>
+        <tema>Ciència ficció</tema>
+        <titol>Rebels</titol>
+    </llibre>
+    <llibre id="8">
+        <anyEdicio>1950</anyEdicio>
+        <autor>Isaac Asimov</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>02/12/50</dataEntrada>
+        <editorial>Gome press</editorial>
+        <idLlibre>8</idLlibre>
+        <tema>Ciència ficció</tema>
+        <titol>Jo, robot</titol>
+    </llibre>
+    <llibre id="9">
+        <anyEdicio>1989</anyEdicio>
+        <autor>Manual de Pedrolo</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>03/03/88</dataEntrada>
+        <editorial>62</editorial>
+        <idLlibre>9</idLlibre>
+        <tema>Novel·la</tema>
+        <titol>Mecanoscrit del segon origen</titol>
+    </llibre>
+        <llibre id="10">
+        <anyEdicio>1998</anyEdicio>
+        <autor>Tony Koltz</autor>
+        <comentari>
+            <comentariSMX></comentariSMX> 
+            <comentariBatx></comentariBatx> 
+            <comentariESO></comentariESO>
+        </comentari>
+        <dataEntrada>01/02/90</dataEntrada>
+        <editorial>Alfaguara</editorial>
+        <idLlibre>10</idLlibre>
+        <tema>Novel·la</tema>
+        <titol>L'Exprés dels vampirs</titol>
+    </llibre>
+</biblioteca>
